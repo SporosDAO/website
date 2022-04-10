@@ -1,0 +1,11 @@
+{
+ "build": {
+   "image": "fleek/jekyll",
+   "command": "jekyll build",
+   "publicDir": "_site",
+   "baseDir": "",
+   "environment": {
+     "SOME_ENV": "Build finished!"
+   }
+ }
+}
