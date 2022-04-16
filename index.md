@@ -1,5 +1,7 @@
 ## Welcome to SporosDAO
 
+### Peer support and equity management for web3 builders
+
 SporosDAO aims to empower entrepreneurs who have web3 tooling, infrastructure and defi commercialization ideas. We are targeting DAO contributors who have experienced firrst hand friction with the tools and services used while contributing to a DAO or have spotted an opportunity for a new defi protocol. They have an idea for a web3 native solution that doesn’t already exist in the market.
 
 Sporos provides:
