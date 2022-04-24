@@ -19,3 +19,5 @@ Who is SporosDAO for:
 8. No outside investors
 9. Less than $10K bootstrapping budget
 10. All business transaction are **on-chain**
+
+Apply [here](https://notionforms.io/forms/sporosdao-application) to join our Beta program.
