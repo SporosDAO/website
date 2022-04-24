@@ -4,6 +4,8 @@
 
 SporosDAO helps web3 founders attract top talent and build self reinforcing network effects by aligning incentives, rewarding early contributors, and diversifying risk through our equity management system.
 
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/jHnx3AC2)
+
 Who is SporosDAO for:
 1. **Web3 native founders**
 2. Distributed **remote team**
