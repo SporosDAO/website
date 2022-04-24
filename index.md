@@ -1,5 +1,7 @@
 ## Welcome to SporosDAO
 
+### Sweat equity management for web3 builders
+
 SporosDAO helps web3 founders attract top talent and build self reinforcing network effects by aligning incentives, rewarding early contributors, and diversifying risk through our equity management system.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jHnx3AC2)
