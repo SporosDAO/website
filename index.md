@@ -1,6 +1,6 @@
 ## Welcome to SporosDAO
 
-### Peer support and sweat equity management for web3 builders
+### Sweat equity management for web3 builders
 
 SporosDAO helps web3 founders attract top talent and build self reinforcing network effects by aligning incentives, rewarding early contributors, and diversifying risk through our equity management system.
 
