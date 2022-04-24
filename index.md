@@ -1,17 +1,17 @@
 ## Welcome to SporosDAO
 
-### Peer support and equity management for web3 builders
+### Peer support and sweat equity management for web3 builders
 
-SporosDAO aims to empower entrepreneurs who have web3 tooling, infrastructure and defi commercialization ideas. We are targeting DAO contributors who have experienced firrst hand friction with the tools and services used while contributing to a DAO or have spotted an opportunity for a new defi protocol. They have an idea for a web3 native solution that doesn’t already exist in the market.
+SporosDAO helps web3 founders attract top talent and build self reinforcing network effects by aligning incentives, rewarding early contributors, and diversifying risk through our equity management system.
 
-Sporos provides:
-
-- A structured process to build a proof of concept, test, iterate, and gain user traction.
-- Seed funding from the SporosDAO community.
-- Friendly mentors who are available to help recruit early adopters, beta testers and investors from their DAO networks.
-- Access to the SporosDAO's network for partnership opportunities and customer acquisition.
-- Marketing support from SporosDAO upon graduation.
-- Facilitation into partner Incubator programs to support the next phase of growth.
-- A positive-sum scenario so that project founders, contributors, mentors, SporosDAO members and the community all share fairly in the upside.
-- Reinforcing flywheel. Alumni founders of the program are invited to join the DAO community and mentor founders of new projects.
-- Open peer-to-peer support network. We all learn from each other, all the time. We do not tolerate all-knowing professors.
+Who is SporosDAO for:
+1. **Web3 native founders**
+2. Distributed **remote team**
+3. No legal entity created
+4. No DAO on-chain created
+5. **Open Source** everything mindset
+6. Committed to **Open Decentralization**
+7. Intent on legal **compliance**
+8. No outside investors
+9. Less than $10K bootstrapping budget
+10. All business transaction are **on-chain**
