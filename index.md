@@ -2,7 +2,7 @@
 
 ### Sweat equity management for web3 builders
 
-SporosDAO helps web3 founders attract top talent and build self reinforcing network effects by aligning incentives, rewarding early contributors, and diversifying risk through our equity management system.
+SporosDao helps bootstrapping founders attract and retain top talent by aligning incentives and rewarding contributors through our equity management system.
 
 [![Etherium](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.kalidao.xyz/daos/0x28FEac06Dc72188b385478b507f7c7a39a7026d5#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jHnx3AC2)
