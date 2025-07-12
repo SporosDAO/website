@@ -10,4 +10,6 @@ SporosDao helps bootstrapping founders attract and retain top talent by aligning
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SporosDAO-963e89779ebb45c5b717c478ef739627)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SporosDAO)
 
-Apply [here](https://notionforms.io/forms/sporosdao-application) to join our waitlist.
+Try [SporosDAO App Beta](https://app.sporosdao.xyz/)
+
+Available on Arbitrum (ETH L2).
